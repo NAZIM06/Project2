@@ -1,0 +1,137 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+body p{
+    font-family: 'Roboto', sans-serif;
+}
+section{
+ height: 700px;
+ 
+}
+.half{
+    width: 45%;
+    float: left;
+    display: block;
+}
+
+.half img{
+      float: right;
+    height: 700px;
+    margin-right: 150px;
+}
+.half img:hover{
+   transform: scale(1.1);
+   transition: transform 2s;
+}
+.half h1{
+    font-size: 65px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    margin-bottom: 30px;
+    color: #0A1C39;
+}
+.pass{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.button {
+   text-decoration: none;
+    padding: 15px 25px;
+    border-radius: 5px;
+    background-color: #4A4A4B;
+    color:white;
+    font-weight: 700; 
+}
+.button:hover{
+    text-decoration: none;
+    background-color: darkolivegreen;
+    color: white;
+    
+}
+.banner{
+    background-color: #F0F0F2;
+    overflow: hidden;
+}
+.card-img-top:hover{
+    transform: scale(1.05);
+    transition: transform 1s;
+   
+}
+.card{
+    overflow: hidden;
+    margin: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+  background-color:#f2f2f2
+}
+
+footer .container .row .col-md-3 p {
+  color: black
+  font-style: 24px;
+  font-weight: 500;
+}
+
+footer .container .row .col-md-3 ul li {
+  list-style: none;
+}
+
+footer .container .row .col-md-3 ul li a {
+  text-decoration: none;
+  line-height: 30px;
+  color: #9BA0AA;
+  font-weight: 400;
+}
+
+footer .container .copyright {
+  color: black;
+  text-align: center;
+}
+
+
+
+
+
+
+
+nav #navbar-main ul li a {
+    color: black;
+    font-size: 1em;
+    margin-right: 15px;
+  }
+  
+  .hero, nav {
+    background-color: #f2f2f2
+  }
+  .hero-texts p {
+    color: #6C6B6B;
+    line-height: 2.25em;
+  }
+  
+  .hero-texts h1 {
+    font-size: 3em;
+    line-height: 70px;
+  }
+  
+  .hero-texts h1 .green {
+    color: #21B573;
+  }
+  
+  .hero-texts .orange {
+    color: #FD511A;
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+  
